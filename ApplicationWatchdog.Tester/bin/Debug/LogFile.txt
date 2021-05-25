@@ -1,0 +1,30 @@
+24.05.2021 14:48:35: Service started.
+24.05.2021 14:48:36: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:36: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:45: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:45: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:50: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:51: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:48:51: Service stopped.
+24.05.2021 14:50:25: Service started.
+24.05.2021 14:50:26: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:26: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:30: Service stopped.
+24.05.2021 14:50:33: Service started.
+24.05.2021 14:50:33: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:33: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:38: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:38: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:50:41: Service stopped.
+24.05.2021 14:55:40: Service started.
+24.05.2021 14:55:40: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:55:40: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:55:45: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:55:45: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:55:48: Service stopped.
+24.05.2021 14:56:22: Service started.
+24.05.2021 14:56:22: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:56:22: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:56:27: Process notepad++ was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:56:27: Process notepad was not found in Task Manager, and has been opened succefuly.
+24.05.2021 14:56:30: Service stopped.

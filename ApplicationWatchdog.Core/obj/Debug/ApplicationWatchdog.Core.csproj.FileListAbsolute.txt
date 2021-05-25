@@ -1,0 +1,6 @@
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\bin\Debug\ApplicationWatchdog.Core.dll
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\bin\Debug\ApplicationWatchdog.Core.pdb
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\obj\Debug\ApplicationWatchdog.Core.csproj.CoreCompileInputs.cache
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\obj\Debug\ApplicationWatchdog.Core.dll
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\obj\Debug\ApplicationWatchdog.Core.pdb
+C:\dev\ApplicationWatchdog\ApplicationWatchdog.Core\obj\Debug\ApplicationWatchdog.Core.csprojAssemblyReference.cache
